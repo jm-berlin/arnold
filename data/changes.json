@@ -1,6 +1,43 @@
 {
  "releases": [
   {
+   "release": "2026-11-20T17:35:10.000Z",
+   "version": "0.3",
+   "date": "2026-11-20",
+   "notes": {
+    "de": [
+     "Navigation oben: Heute, Mein Kalender, Übungen und Essen.",
+     "Neu: alle Übungen mit Anleitung auf einen Blick, deine Sportarten zuerst.",
+     "Fortschritt findest du jetzt in „Mein Bereich“.",
+     "Kräftigere Farben in den Überschriften."
+    ],
+    "en": [
+     "Navigation at the top: Today, My calendar, Exercises and Food.",
+     "New: all exercises with instructions at a glance, your activities first.",
+     "Progress is now in “My area”.",
+     "Stronger colours in the headings."
+    ],
+    "fr": [
+     "Navigation en haut : Aujourd’hui, Mon calendrier, Exercices et Repas.",
+     "Nouveau : tous les exercices avec explications, tes sports d’abord.",
+     "Les progrès sont maintenant dans « Mon espace ».",
+     "Couleurs plus vives dans les titres."
+    ],
+    "es": [
+     "Navegación arriba: Hoy, Mi calendario, Ejercicios y Comida.",
+     "Nuevo: todos los ejercicios con instrucciones, primero tus deportes.",
+     "El progreso ahora está en «Mi espacio».",
+     "Colores más vivos en los títulos."
+    ],
+    "it": [
+     "Navigazione in alto: Oggi, Il mio calendario, Esercizi e Cibo.",
+     "Novità: tutti gli esercizi con istruzioni, prima i tuoi sport.",
+     "I progressi ora sono in «La mia area».",
+     "Colori più vivaci nei titoli."
+    ]
+   }
+  },
+  {
    "release": "2026-11-20T17:11:54.000Z",
    "version": "0.2",
    "date": "2026-11-20",

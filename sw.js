@@ -1,7 +1,7 @@
 /* Service Worker (wie Fraxx): Offline-Betrieb und Updates.
    Die App kommt immer aus dem Speicher. Eine neue Fassung wird im Hintergrund geladen,
    aber erst übernommen, wenn der Nutzer im Hinweis „Update verfügbar“ auf „Jetzt aktualisieren“ tippt. */
-const VERSION = "28af4f52bf";
+const VERSION = "e18f4489b9";
 const PREFIX = "arnold-shell-";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png", "data/release.json"];
 const SHELL_CACHE = PREFIX + VERSION, RUNTIME = "arnold-runtime";
