@@ -1,0 +1,41 @@
+{
+ "releases": [
+  {
+   "release": "2026-11-20T16:55:39.000Z",
+   "version": "0.1",
+   "date": "2026-11-20",
+   "notes": {
+    "de": [
+     "Erste Testversion von Arnold.",
+     "Startseite mit allem für heute, Tagesplan mit Training und Essen, Wochenkalender.",
+     "Rezepte zum Vorkochen mit Einkaufsliste, Fortschritt mit Gewichtskurve.",
+     "Deutsch, Englisch, Französisch, Spanisch und Italienisch."
+    ],
+    "en": [
+     "First test version of Arnold.",
+     "Start page with everything for today, daily plan with workout and food, weekly calendar.",
+     "Batch-cooking recipes with shopping list, progress with weight chart.",
+     "German, English, French, Spanish and Italian."
+    ],
+    "fr": [
+     "Première version de test d’Arnold.",
+     "Accueil avec tout pour aujourd’hui, programme du jour avec entraînement et repas, calendrier de la semaine.",
+     "Recettes à préparer à l’avance avec liste de courses, progrès avec courbe de poids.",
+     "Allemand, anglais, français, espagnol et italien."
+    ],
+    "es": [
+     "Primera versión de prueba de Arnold.",
+     "Inicio con todo lo de hoy, plan del día con entrenamiento y comida, calendario semanal.",
+     "Recetas para cocinar por adelantado con lista de la compra, progreso con curva de peso.",
+     "Alemán, inglés, francés, español e italiano."
+    ],
+    "it": [
+     "Prima versione di prova di Arnold.",
+     "Home con tutto per oggi, piano del giorno con allenamento e pasti, calendario settimanale.",
+     "Ricette da preparare in anticipo con lista della spesa, progressi con curva del peso.",
+     "Tedesco, inglese, francese, spagnolo e italiano."
+    ]
+   }
+  }
+ ]
+}
