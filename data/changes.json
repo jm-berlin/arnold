@@ -1,6 +1,28 @@
 {
  "releases": [
   {
+   "release": "2026-11-20T17:45:49.000Z",
+   "version": "0.4",
+   "date": "2026-11-20",
+   "notes": {
+    "de": [
+     "Neu: die Anleitung – Schritt für Schritt mit Bildern, in fünf Sprachen und als PDF. Auf der Startseite unter „▶ Anleitung“ und in den Einstellungen."
+    ],
+    "en": [
+     "New: the guide – step by step with pictures, in five languages and as a PDF. On the start page under “▶ Guide” and in Settings."
+    ],
+    "fr": [
+     "Nouveau : le guide – étape par étape avec des images, en cinq langues et en PDF. Sur la page d’accueil sous « ▶ Guide » et dans les réglages."
+    ],
+    "es": [
+     "Nuevo: la guía, paso a paso con imágenes, en cinco idiomas y en PDF. En la página de inicio en «▶ Guía» y en los ajustes."
+    ],
+    "it": [
+     "Novità: la guida, passo per passo con immagini, in cinque lingue e in PDF. Nella pagina iniziale sotto «▶ Guida» e nelle impostazioni."
+    ]
+   }
+  },
+  {
    "release": "2026-11-20T17:35:10.000Z",
    "version": "0.3",
    "date": "2026-11-20",
