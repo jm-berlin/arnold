@@ -1,6 +1,43 @@
 {
  "releases": [
   {
+   "release": "2026-11-20T17:11:54.000Z",
+   "version": "0.2",
+   "date": "2026-11-20",
+   "notes": {
+    "de": [
+     "Neue Startseite: erklärt, was Arnold kann und wie man es installiert.",
+     "„Mein Bereich“ oben: Übersicht und deine Ziele an einem Ort.",
+     "Die App öffnet jetzt direkt den Tagesplan.",
+     "Neue Farben zum Ausprobieren: Navy & Signalorange oder Mitternacht & Grün (Einstellungen → Farbe)."
+    ],
+    "en": [
+     "New start page: explains what Arnold does and how to install it.",
+     "“My area” at the top: overview and your goals in one place.",
+     "The app now opens straight to today’s plan.",
+     "New colours to try: Navy & Signal Orange or Midnight & Green (Settings → Colour)."
+    ],
+    "fr": [
+     "Nouvelle page d’accueil : ce que fait Arnold et comment l’installer.",
+     "« Mon espace » en haut : aperçu et objectifs au même endroit.",
+     "L’appli s’ouvre directement sur le programme du jour.",
+     "Nouvelles couleurs à essayer : marine & orange ou minuit & vert (Réglages → Couleur)."
+    ],
+    "es": [
+     "Nueva página de inicio: qué hace Arnold y cómo instalarlo.",
+     "«Mi espacio» arriba: resumen y objetivos en un solo sitio.",
+     "La app se abre directamente en el plan de hoy.",
+     "Colores nuevos para probar: marino y naranja o medianoche y verde (Ajustes → Color)."
+    ],
+    "it": [
+     "Nuova pagina iniziale: cosa fa Arnold e come installarlo.",
+     "«La mia area» in alto: panoramica e obiettivi in un unico posto.",
+     "L’app ora si apre direttamente sul piano di oggi.",
+     "Nuovi colori da provare: blu notte e arancione o mezzanotte e verde (Impostazioni → Colore)."
+    ]
+   }
+  },
+  {
    "release": "2026-11-20T16:55:39.000Z",
    "version": "0.1",
    "date": "2026-11-20",
