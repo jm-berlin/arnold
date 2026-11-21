@@ -1,6 +1,48 @@
 {
  "releases": [
   {
+   "release": "2026-11-21T19:21:43.000Z",
+   "version": "0.5",
+   "date": "2026-11-21",
+   "notes": {
+    "de": [
+     "Neu: Sag Arnold, wie fit du bist – und nach jedem Training „zu leicht“, „passt“ oder „zu schwer“. Die Übungen wachsen mit.",
+     "Neu: Nur Training, nur Essen oder beides – du entscheidest unter „Meine Ziele“.",
+     "Über 365 Gerichte, Ernährungsform, Allergien und was du magst oder gar nicht magst. Dazu feste Trainingstage je Sportart.",
+     "Die Einkaufsliste hat ihren eigenen Platz in der Leiste – für die ganze Woche, zum Kopieren und Drucken. Neu: Getränke mit Kalorien.",
+     "Alles jetzt komplett auf Englisch, Französisch, Spanisch und Italienisch, mit neuer Anleitung."
+    ],
+    "en": [
+     "New: tell Arnold how fit you are – and after each workout “too easy”, “just right” or “too hard”. The exercises grow with you.",
+     "New: training only, food only or both – you decide under “My goals”.",
+     "Over 365 dishes, diet, allergies and what you like or can’t stand. Plus fixed training days for each sport.",
+     "The shopping list has its own place in the bar – for the whole week, to copy and print. New: drinks with calories.",
+     "Everything now fully in English, French, Spanish and Italian, with a new guide."
+    ],
+    "fr": [
+     "Nouveau : dis à Arnold ta forme – et après chaque entraînement « trop facile », « ça va » ou « trop dur ». Les exercices évoluent avec toi.",
+     "Nouveau : seulement l’entraînement, seulement les repas ou les deux – à toi de choisir sous « Mes objectifs ».",
+     "Plus de 365 plats, régime, allergies et ce que tu aimes ou pas du tout. Et des jours fixes pour chaque sport.",
+     "La liste de courses a sa place dans la barre – pour toute la semaine, à copier et imprimer. Nouveau : les boissons avec leurs calories.",
+     "Tout est maintenant entièrement en anglais, français, espagnol et italien, avec un nouveau guide."
+    ],
+    "es": [
+     "Nuevo: dile a Arnold qué tal estás de forma y, después de cada entrenamiento, «demasiado fácil», «bien» o «demasiado duro». Los ejercicios crecen contigo.",
+     "Nuevo: solo entrenamiento, solo comida o las dos cosas; lo decides en «Mis objetivos».",
+     "Más de 365 platos, dieta, alergias y lo que te gusta o no soportas. Además, días fijos de entrenamiento para cada deporte.",
+     "La lista de la compra tiene su sitio en la barra: para toda la semana, para copiar e imprimir. Nuevo: bebidas con sus calorías.",
+     "Todo ya completamente en inglés, francés, español e italiano, con una guía nueva."
+    ],
+    "it": [
+     "Novità: di’ ad Arnold quanto sei in forma e, dopo ogni allenamento, «troppo facile», «giusto» o «troppo dura». Gli esercizi crescono con te.",
+     "Novità: solo allenamento, solo cibo o entrambi: lo decidi in «I miei obiettivi».",
+     "Più di 365 piatti, dieta, allergie e cosa ti piace o proprio no. In più giorni fissi di allenamento per ogni sport.",
+     "La lista della spesa ha il suo posto nella barra: per tutta la settimana, da copiare e stampare. Novità: le bevande con le calorie.",
+     "Tutto ora completamente in inglese, francese, spagnolo e italiano, con una nuova guida."
+    ]
+   }
+  },
+  {
    "release": "2026-11-20T17:45:49.000Z",
    "version": "0.4",
    "date": "2026-11-20",
